@@ -8,7 +8,7 @@ Symfony is my go-to framework, and I leverage its power to bring most of my proj
 
 🔒 **Private Projects**  
 While most of my work is private, here are some examples that are accessible:
-- **Teacher-Office**: A project designed for schools, focusing on student grading: [Teacher-Office](https://feskol.github.io/teacher-office)  
+- **Teacher-Office**: A project designed for schools, focusing on student grading. Checkout the GitHub-Page: [Teacher Office](https://feskol.github.io/teacher-office)  
 - **Open-Source Contribution**: I’ve also developed and published an open-source project: [GitLab-ARM64](https://github.com/feskol/gitlab-arm64)
 
 ## 🛠️ Skills
