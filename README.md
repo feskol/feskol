@@ -13,7 +13,7 @@ While most of my work is private, here are some examples that are accessible:
 
 ## 🛠️ Skills
 
-### Back-End Development
+### Back-End
 
 ![php](https://img.shields.io/badge/PHP-4f5b93?style=for-the-badge&logo=php&logoColor=white)
 ![symfony](https://img.shields.io/badge/Symfony-1f2937?style=for-the-badge&logo=symfony&logoColor=white)
@@ -21,7 +21,7 @@ While most of my work is private, here are some examples that are accessible:
 ![mysql](https://img.shields.io/badge/MySQL-21869d?style=for-the-badge&logo=mysql&logoColor=white)
 ![mariadb](https://img.shields.io/badge/MariaDB-4e629a?style=for-the-badge&logo=mariadb&logoColor=white)
 
-### Front-End Development
+### Front-End
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
