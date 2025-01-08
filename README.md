@@ -7,7 +7,7 @@ I'm **Festim Kolgeci**, a passionate **Full Stack Web Developer** with a strong 
 Symfony is my go-to framework, and I leverage its power to bring most of my projects to life. Its versatility and robustness align perfectly with my development philosophy, making it an integral part of my work.
 
 📂 **My Projects**  
-While most of my work is private, here are some examples that are accessible:
+While most of my work is private, here are some examples for you to look at:
 - **Teacher-Office**: A project designed for schools, focusing on student grading. Checkout the GitHub-Page: [Teacher Office](https://feskol.github.io/teacher-office)  
 - **Open-Source Contribution**: I’ve also developed and published an open-source project: [GitLab-ARM64](https://github.com/feskol/gitlab-arm64)
 
