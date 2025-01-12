@@ -1,7 +1,7 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ## 🌟 About Me:
-I'm **Festim Kolgeci**, a passionate **Full Stack Web Developer** with a strong focus on PHP-based applications. Over the years, I've successfully delivered a wide range of web solutions. My projects range from **CMS websites** to **custom web applications** and **e-commerce platforms**.
+I'm **Festim Kolgeci**, a passionate **Full Stack Web Developer** with a strong focus on PHP-based applications. Over the years, I've successfully delivered a wide range of web solutions.
 
 🚀 **Symfony Enthusiast**  
 Symfony is my go-to framework, and I leverage its power to bring most of my projects to life. Its versatility and robustness align perfectly with my development philosophy, making it an integral part of my work.
