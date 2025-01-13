@@ -3,9 +3,6 @@
 ## 🌟 About Me:
 I'm **Festim Kolgeci**, a passionate **Full Stack Web Developer** with a strong focus on PHP-based applications. Over the years, I've successfully delivered a wide range of web solutions.
 
-🚀 **Symfony Enthusiast**  
-Symfony is my go-to framework, and I leverage its power to bring most of my projects to life. Its versatility and robustness align perfectly with my development philosophy, making it an integral part of my work.
-
 📂 **My Projects**  
 While most of my work is private, here are some links for you to explore:
 - **Teacher-Office**: A project designed for schools, focusing on student grading. Checkout the GitHub-Page: [Teacher Office](https://feskol.github.io/teacher-office)  
