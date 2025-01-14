@@ -6,9 +6,7 @@ I'm **Festim Kolgeci**, a passionate **Full Stack Web Developer** with a strong 
 📂 **My Projects**  
 While most of my work is private, here are some links for you to explore:
 - **Teacher-Office**: A project designed for schools, focusing on student grading. Checkout the GitHub-Page: [Teacher Office](https://feskol.github.io/teacher-office)  
-- **Open-Source Contribution**:
-  - GitLab Docker Image for ARM64-based platforms: [GitLab-ARM64](https://github.com/feskol/gitlab-arm64)
-  - A simple and effective PHP Navigation to manage active states in navigation structures: [php-navigation](https://github.com/feskol/php-navigation)
+- **Open-Source Contribution**: GitLab Docker Image for ARM64-based platforms: [GitLab-ARM64](https://github.com/feskol/gitlab-arm64)
 
 ## 🛠️ Skills
 
