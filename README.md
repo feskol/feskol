@@ -15,7 +15,6 @@ While most of my work is private, here are some links for you to explore:
 ![php](https://img.shields.io/badge/PHP-4f5b93?style=for-the-badge&logo=php&logoColor=white)
 ![symfony](https://img.shields.io/badge/Symfony-1f2937?style=for-the-badge&logo=symfony&logoColor=white)
 ![shopware6](https://img.shields.io/badge/Shopware_6-189eff?style=for-the-badge&logo=shopware&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-21869d?style=for-the-badge&logo=mysql&logoColor=white)
 ![mariadb](https://img.shields.io/badge/MariaDB-4e629a?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ### Front-End
