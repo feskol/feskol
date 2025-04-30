@@ -29,6 +29,7 @@ While most of my work is private, here are some links for you to explore:
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![vuejs](https://img.shields.io/badge/Vue-242424?style=for-the-badge&logo=vuedotjs&logoColor=327859)
+![angular](https://img.shields.io/badge/Angular-8C1557?style=for-the-badge&logo=angular&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
