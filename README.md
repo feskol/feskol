@@ -10,7 +10,7 @@ While most of my work is private, here are some links for you to explore:
 - **Open-Source Contribution**:
   - [GitLab-ARM64](https://github.com/feskol/gitlab-arm64): GitLab Docker Image for ARM64-based platforms.
   - [NavigationBundle](https://github.com/feskol/NavigationBundle): An integration of the [PHP-Navigation](https://github.com/feskol/php-navigation) library with extensions for Symfony applications.
-  - [PHP-Navigation](https://github.com/feskol/php-navigation): A simple and effective Navigation to manage active states in navigation structures. 
+  - [PHP-Navigation](https://github.com/feskol/php-navigation): A simple and effective Navigation to manage active states in hierarchical navigation structures. 
 
 ## 🛠️ Skills
 
