@@ -5,6 +5,7 @@ I'm **Festim Kolgeci**, a passionate **Full Stack Web Developer** with a strong 
 
 📂 **My Projects**  
 While most of my work is private, here are some links for you to explore:
+- **Toilet-Office**: A classroom management app that organizes and tracks student toilet usage. Checkout [Toilet-Office App](https://play.google.com/store/apps/details?id=toiletoffice.goip.de)
 - **Teacher-Office**: A project designed for schools, focusing on student grading. Checkout the GitHub-Page: [Teacher Office](https://feskol.github.io/teacher-office)  
 - **Open-Source Contribution**:
   - [GitLab-ARM64](https://github.com/feskol/gitlab-arm64): GitLab Docker Image for ARM64-based platforms.
